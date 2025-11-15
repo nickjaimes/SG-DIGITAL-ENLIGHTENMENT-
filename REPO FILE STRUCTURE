@@ -1,0 +1,54 @@
+This is the structure we will create:
+
+sg-digital-enlightenment/
+│
+├── 01_Introduction/
+│   ├── what_is_digital_world.md
+│   ├── essential_terms.md
+│   └── how_computers_think.md
+│
+├── 02_Software_Basics/
+│   ├── apps_vs_programs.md
+│   ├── operating_systems.md
+│   └── files_and_folders.md
+│
+├── 03_Programming_Starter/
+│   ├── what_is_code.md
+│   ├── simple_program_examples.md
+│   └── how_programs_run.md
+│
+├── 04_Internet_and_Cloud/
+│   ├── what_is_internet.md
+│   ├── wifi_vs_mobile_data.md
+│   ├── domains_servers_dns.md
+│   └── cloud_basics.md
+│
+├── 05_Cybersecurity_Starter/
+│   ├── passwords_and_2FA.md
+│   ├── scams_and_safe_practices.md
+│   └── beginners_cyber_hygiene.md
+│
+├── 06_AI_Awakening/
+│   ├── what_is_ai.md
+│   ├── how_chatgpt_works.md
+│   └── ai_in_daily_life.md
+│
+├── 07_SG_Ecosystem_Basics/
+│   ├── safeway_guardian_overview.md
+│   ├── sg_quantum_os_intro.md
+│   └── trinity_ai_and_eagle_eye.md
+│
+├── 08_HandsOn_Practice/
+│   ├── create_github_account.md
+│   ├── first_repo_tutorial.md
+│   ├── simple_html_page.md
+│   └── simple_python_program.md
+│
+├── ROADMAP.md
+├── README.md
+├── LICENSE
+└── CONTRIBUTING.md
+
+
+This makes the repo perfect for beginners and very attractive to developers, teachers, and communities worldwide.
+
